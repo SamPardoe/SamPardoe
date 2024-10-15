@@ -1,9 +1,9 @@
-Sam Pardoe
-
--student
-
--learning Python and C#
-
+## Sam Pardoe
+ - First year student at University of Southampton
+ - Languages:
+ -   Python
+ -   C#
+ -   Bash
 
 <!---
 SamPardoe/SamPardoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
